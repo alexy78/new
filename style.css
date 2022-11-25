@@ -1,0 +1,17 @@
+body{
+  
+    font-family: 'Nanum Gothic', sans-serif;;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    padding-top: 100px;
+    color: blueviolet;
+    padding-bottom: 20px;
+}
+h2{
+    padding-top:  50px;
+}
+p{
+    font-size: 30px;
+}
